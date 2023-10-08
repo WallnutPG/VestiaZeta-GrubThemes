@@ -1,9 +1,11 @@
 # Vestia Zeta - Hololive Indonesia
 Vestia Zeta Grub Pack
 
+
 ## Donate Dulu Cui Buat Beli Kopi
 Donate Me :
-Seabank - 9018 9656 6446 (Dz***i M****na N***afi)
+Seabank - 9018 9656 6446
+
 
 ## HOW TO INSTALL
 1. Download and unzip file (2 File in Vestia Zeta Grub Theme : 1.Vestia-Zeta & 2.Vestia-Zeta-v2)
