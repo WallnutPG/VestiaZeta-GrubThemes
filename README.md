@@ -9,6 +9,9 @@ Seabank - 9018 9656 6446
 
 ## HOW TO INSTALL
 1. Download and unzip file (2 File in Vestia Zeta Grub Theme : 1.Vestia-Zeta & 2.Vestia-Zeta-v2)
+    - cd Downloads/
+    - git clone https://github.com/WallnutPG/VestiaZeta-GrubThemes.git
+    - extract file
 
 3. Copy file into grub themes directory
     example copy :
