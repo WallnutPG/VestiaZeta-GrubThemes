@@ -9,23 +9,25 @@ Seabank - 9018 9656 6446
 
 ## HOW TO INSTALL
 1. Download and unzip file (2 File in Vestia Zeta Grub Theme : 1.Vestia-Zeta & 2.Vestia-Zeta-v2)
+    cd Downloads/
+    sudo git clone https://github.com/WallnutPG/VestiaZeta-GrubThemes.git
 
-2. Copy file into grub themes directory
+3. Copy file into grub themes directory
     example copy :
     - copy file Vestia-Zeta to directory (/usr/share/grub/themes)
     example command :
     - sudo cp -r Vestia-Zeta  /usr/share/grub/themes
 
-3. Edit grub file
+4. Edit grub file
     sudo nano /etc/default/grub
 
-4. Add the theme to the bottom of the text file
+5. Add the theme to the bottom of the text file
     GRUB_THEME="/usr/share/grub/themes/Vestia-Zeta/theme.txt"
 
-5. Update Grub
+6. Update Grub
     sudo grub-mkconfig -o /boot/grub/grub.cfg
 
-6. Reboot the computer
+7. Reboot the computer
 
 ## PREVIEW
 ![Vestia-Zeta](/preview/vestia-zeta.png)
