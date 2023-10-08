@@ -6,7 +6,7 @@ Vestia Zeta Grub Pack
 Donate Me :
 Seabank - 9018 9656 6446
 
-
+##
 ## HOW TO INSTALL
 1. Download and unzip file (2 File in Vestia Zeta Grub Theme : 1.Vestia-Zeta & 2.Vestia-Zeta-v2)
     - cd Downloads/
@@ -30,6 +30,7 @@ Seabank - 9018 9656 6446
 
 7. Reboot the computer
 
+##
 ## PREVIEW
 ![Vestia-Zeta](/preview/vestia-zeta.png)
 ![Vestia-Zeta-v2](/preview/vestia-zeta-v2.png)
