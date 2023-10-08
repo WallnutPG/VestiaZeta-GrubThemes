@@ -14,9 +14,9 @@ Seabank - 9018 9656 6446
     - extract file
 
 3. Copy file into grub themes directory
-    ## example copy :
+    ### example copy :
     - copy file Vestia-Zeta to directory (/usr/share/grub/themes)
-    ## example command :
+    ### example command :
     - sudo cp -r Vestia-Zeta  /usr/share/grub/themes
 
 4. Edit grub file
