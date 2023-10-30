@@ -1,39 +1,48 @@
-# Vestia Zeta - Hololive Indonesia
-Vestia Zeta Grub Pack
+# Devices Supported CRom
 
+## Android
 
-## Donate Dulu Cui Buat Beli Kopi
-Donate Me :
-Seabank - 9018 9656 6446
+## - Xiaomi
+1. POCO F1
+2. POCO F2 Pro / Redmin K30 Pro
+3. Poco M2 / Pro
+4. Poco M3 / Pro
+5. Redmi 9T/Redmi 9 Power/Redmi Note 9 4G
+6. POCO X2/Redmi K30
+7. Poco X3
+8. Series Redmi 1s - 3s
+9. Redmi 4A / Redmin 4X
+10. Redmi 5
+11. Redmi 5 Plus/Redmi Note 5
+12. Seris Redmi 6 - 8 / (S/T/Pro)
+13. Redmi 12 / Redmi Note 12 / Redmi Note 12 Pro
+14. All Series Mi (Reguler/Plus/X/SE/Lite/Pro/Mix)
 
-##
-## HOW TO INSTALL
-1. Download and unzip file (2 File in Vestia Zeta Grub Theme : 1.Vestia-Zeta & 2.Vestia-Zeta-v2)
-    - cd Downloads/
-    - git clone https://github.com/WallnutPG/VestiaZeta-GrubThemes.git
-    - extract file
+## All Android Advan Product
 
-3. Copy file into grub themes directory
-    ### example copy :
-    - copy file Vestia-Zeta to directory (/usr/share/grub/themes)
-    ### example command :
-    - sudo cp -r Vestia-Zeta  /usr/share/grub/themes
+## ASUS
+1. ROG Phone 2
+2. ROG Phone 3
+3. Zenfone 4 Max
+4. Zenfone 5
+5. Zenfone 5Z
+6. Zenfone 6
+7. Zenfone MAX Pro M1
+8. Zenfone MAX Pro M2
 
-4. Edit grub file
-    sudo nano /etc/default/grub
+## Realme
+1. Realme C11
+2. Realme C12
+3. Realme X
+4. Realme X2 / Realme X2 Pro
+5. Realme XT
 
-5. Add the theme to the bottom of the text file
-    GRUB_THEME="/usr/share/grub/themes/Vestia-Zeta/theme.txt"
-
-6. Update Grub
-    sudo grub-mkconfig -o /boot/grub/grub.cfg
-
-7. Reboot the computer
-
-##
-## PREVIEW
-![Vestia-Zeta](/preview/vestia-zeta.png)
-![Vestia-Zeta-v2](/preview/vestia-zeta-v2.png)
-
-## Created By :
-github.com/WallnutPG
+## Samsung
+1. Galaxy Note 10+
+2. Galaxy Note 10.1
+3. Galaxy Note Pro 12.2
+4. Galaxy S20 / Galaxy S20 Plus
+5. Galaxy S20 Ultra
+6. Galaxy S21 / Galaxy S21 Ultra
+7. Galaxy Tab S5e
+8. Galaxy Tab S6 Lite
